@@ -1,0 +1,74 @@
+.navbar {
+  background-color: #092e33;
+  border: 0px;
+  border-radius: 10px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.paragraph1 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: roboto;
+  font-family: 800;
+}
+.paragraph2 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: roboto;
+  font-family: 800;
+  margin-right: 30px;
+}
+.paragraph3 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: roboto;
+  font-family: 800;
+  margin-left: 30px;
+}
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.nav-Container {
+  border: 2px solid #00e7ff;
+  border-radius: 10px;
+  background-size: cover;
+  width: 50%;
+}
+.list-card {
+  list-style-type: none;
+}
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.list-item {
+  display: flex;
+  align-items: center;
+}
+.image3 {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.currencyName {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: roboto;
+  font-family: 600;
+  margin-left: 0px;
+}
+.currency {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: roboto;
+  font-family: 600;
+  margin-left: 30px;
+  margin-right: 20px;
+}
